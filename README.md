@@ -3,8 +3,8 @@
 
 
 Integrantes:
-- Pedro Henrique(202102148201)
-- André Luiz Gomes de Araujo(202203753851)
-- Luiz Felipe Dias Cardoso Feres Lima(202002456086)
-- Gabriel de Paulo Mulinari(202203961004)
-- Renan Soares Candido(202208622577):
+- Pedro Henrique (202102148201)
+- André Luiz Gomes de Araujo (202203753851)
+- Luiz Felipe Dias Cardoso Feres Lima (202002456086)
+- Gabriel de Paulo Mulinari (202203961004)
+- Renan Soares Candido (202208622577):
